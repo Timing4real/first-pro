@@ -1,0 +1,27 @@
+/* style.css */
+            img {
+                height: auto;
+                width: 300px;
+                border-radius: 10%;
+                border-style: dashed;
+            }
+
+            * {
+                background-color: black;
+            }
+
+            p {
+                color: red;  
+            }
+
+            li {
+                color: aqua;
+            }
+
+            h1 {
+                color: blue;
+            }
+
+            a {
+                color: yellow;
+            }
